@@ -1,0 +1,13 @@
+{
+    "name": "mistai/mist",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mistai",
+            "email": "2465694852@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
