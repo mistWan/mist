@@ -9,5 +9,16 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "ext-json": "*"
+    },
+    "autoload": {
+        "files": [
+            "mist/helper.php"
+        ],
+        "psr-4": {
+            "mist\\": "mist",
+            "app\\": "app"
+        }
+    }
 }
